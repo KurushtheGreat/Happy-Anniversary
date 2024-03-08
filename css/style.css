@@ -126,10 +126,6 @@ footer p {
     gap: 20px;
 }
 
-.leader {
-    text-transform: uppercase;
-}
-
 .dark {
    background-color: #e899e5;
   padding: 2rem 0;
