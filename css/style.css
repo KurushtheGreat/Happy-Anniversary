@@ -119,6 +119,7 @@ footer p {
 
 .imgsmall {
     max-width : 800px;
+    max-height : 800px;
     margin: auto;
     padding: 40px 0;
     display : grid;
