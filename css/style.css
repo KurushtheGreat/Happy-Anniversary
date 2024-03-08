@@ -19,7 +19,7 @@ img {
 /*---- styling typography ----*/
 h2, strong {
     font-family: 'Ubuntu', sans-serif;
-    color: #60774e
+    color: #7d2f7a
 }
 
 p, blockquote {
@@ -79,7 +79,7 @@ a:hover {
 nav {
     top:0;
     left:0;
-    background-color: #7F9B6A;
+    background-color: #7d2f7a;
     padding: 0.5rem;
     font-size: 0.8rem;
 }
@@ -107,7 +107,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: #7F9B6A;
+    background: #7d2f7a;
     font-size: 0.8rem;
     padding: 0.5rem 0 1rem 0;
     margin-top: 0rem;
