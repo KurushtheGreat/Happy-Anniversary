@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en-GB>
+<head>
+<meta charset="utf-8"/>
+<meta name="author" content="Aaron Pollock">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Happy Anniversary</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href=<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora&family=Ubuntu:ital,wght@0,700;1,300&display=swap" rel="stylesheet">
+
+<link href="css/style.css"type="text/css" 
+rel="stylesheet">
+
+</head>
+<body>
+    <nav>
+        <ul>
+            <li class="logo"><a href="index.html">Happy Anniversary</a></li>
+            <li><a href= "#1">Year 1</a></li>
+            <li><a href= "#2">Year 2</a></li>
+            <li><a href= "#3">Year 3</a></li>
+            </ul>
+        </nav>
+
+        <img src="img/.jpg" alt="opening image of Tami"/>
+
+<header>
+<h1>I love you Tami!</h1>
+
+<p><span class="leader">You are the loveliest person I have ever met and i can't wait to share my life with you.</p>
+</header>
+
+<article>
+    <img src="img/" alt="image of Tami"/>
+
+<h2 id="1">Our First Year Together</h2>
+
+<p>Two years ago, I never even thought about having a girlfriend, but suddenly the sweetest, kindest, most beautiful girl entered my life. (That's you!!) Although our first year was nowhere near as good as this one, I'm so grateful that I met my dear wife. We started to make our plans together, thanks to you, this was one of the most defining years of my life, where I met the msot special person ever, and decided who I wanted to be with eternally. We had our ups amd downs this year, but I'm delighted with my wonderful wife. </p>
+</article>
+<div class="dark">
+<article>
+
+<h2 id="2">Our Second Year Together</h2>
+
+<p>This year was even better than the last! we had so many good times together, and fell more deeply in love than I could ever have imagined. It all led us to this wonderful day, and I adored every second of the journey. We fell so much deeper in love, I want to be yours forever! We had such wonderful anniversaries, gifts and dates this year. Your 3d model of me, tour cute little game, and your photo shoot with Yali, I loved them all. And you took care of me so well, comforted me whenever I needed it, and made me feel so so loved, thank you, my dear, I will always be grateful to you.   </p>
+
+<div class="imgsmall">
+<img src="img/.jpg" alt="Tami"/>
+<img src="img/.jpg" alt="Aaron"/>
+</div>
+<blockquote>
+<p>I love you.<br>
+</blockquote>
+</p>
+
+</article>
+</div>
+<article>
+
+<h2 id="3">Our Third Year Together</h2>
+
+<img src="img/.jpg" alt="image of us"/>
+<p>Although this year has only just started, I'm so excited for what's to come! We will have so many firsts. Our first real life date, our first hug, and our first kiss. I'll make this year even better than the last, with my brilliant wife at my side! I love you more than anything in all the world.
+</p>
+</article>
+
+<footer>
+To be continued!
+</footer>
+</body>
+</html>
