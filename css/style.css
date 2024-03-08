@@ -118,8 +118,8 @@ footer p {
 }
 
 .imgsmall {
-    max-width : 800px;
-    max-height : 800px;
+    max-width : 400px;
+    max-height : 400px;
     margin: auto;
     padding: 40px 0;
     display : grid;
@@ -132,7 +132,7 @@ footer p {
 }
 
 .dark {
-   background-color: #b2c8a1;
+   background-color: #e899e5;
   padding: 2rem 0;
 }
 
